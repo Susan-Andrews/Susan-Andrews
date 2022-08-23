@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  Python,Html,css,javascript
 - 📍 Lets talk about python
-- ⚡ Fun fact  is that i'm beautiful soup!😁
+- ⚡ Fun fact  is that i'm Beautiful Soup!😁
 
 
 When you get stuck, remember: Read-Search-Ask.
