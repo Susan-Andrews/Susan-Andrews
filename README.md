@@ -4,6 +4,7 @@
 
 
 - 🌱 I’m currently learning  Python,Html,css,javascript
+- 📍 Lets talk about python
 - ⚡ Fun fact  is that i'm beautiful soup!😁
 
 
