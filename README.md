@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susan Andrews</h1>
 <h3 align="center">A passionate CS Student from India</h3>
-<img src="https://www.canva.com/design/DAFV-TwwXzI/GNakHkjSaxJV6G0FfGNCDg/edit?utm_content=DAFV-TwwXzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="![image](https://user-images.githubusercontent.com/97679329/209700839-a11ee611-d5ec-4e49-af4a-a8aa234c057f.png)" alt="header image" width="100" height="100">
 
 
 - 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
