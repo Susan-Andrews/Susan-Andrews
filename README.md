@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susan Andrews</h1>
 <h3 align="center">A passionate CS Student from India</h3>
-
+<div  id="header" align="center">
+  <img  src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
+</div>
 
 
 - 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
@@ -18,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan-andrews&show_icons=true&locale=en&layout=compact" alt="susan-andrews" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-andrews&" alt="susan-andrews" /></p>
+
