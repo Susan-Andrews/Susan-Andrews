@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan-andrews" alt="susan-andrews" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Susan-Andrews](https://github.com/Susan-Andrews)
