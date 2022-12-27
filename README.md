@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susan Andrews</h1>
 <h3 align="center">A passionate CS Student from India</h3>
-
+<body style="background-color:aquamarine;">
 
 
 - 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
