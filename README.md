@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Susan-Andrews](https://github.com/Susan-Andrews)
+- 👨‍💻 All of my projects are available at [Susan-Andrews](https://github.com/Susan-Andrews)
 
 - 💬 Ask me about **Python**
 
