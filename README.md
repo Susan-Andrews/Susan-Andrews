@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=269CCC&width=435&lines=I+am+Susan+Andrews;I+am++python+developer..;I+am+front+end+developer.." alt="Typing SVG" /></a><hr>
-<div  id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=269CCC&width=435&lines=Hi%2CI+am+Susan+!;I+am++python+developer;I+am+front+end+developer;I+am+CS+student+" alt="Typing SVG" /></a>
+<hr style="width:50%;text-align:left;margin-left:0">
+<div  id="header" style="width:50%;align:center;padding-left:30px:0;margin-left:0">
   <img  src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
 </div>
 
