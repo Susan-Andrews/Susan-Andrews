@@ -1,13 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=269CCC&width=435&lines=Hi%2CI+am+Susan+!;I+am++python+developer;I+am+front+end+developer;I+am+CS+student+" alt="Typing SVG" /></a>
 <hr size="10px" width="650px">  
 <div  id="header" style="width:50%;align:center">
-  <img  src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
+  <img  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
 
-- 🌱 I’m currently learning **Python,Machine Learning,FrontEnd**
-
-- 👨‍💻 All of my projects are available at [Susan-Andrews](https://github.com/Susan-Andrews)
+- &#128269;View my projects at [Susan-Andrews](https://github.com/Susan-Andrews)
 
 - 💬 Ask me about **Python**
 
