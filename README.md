@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Susan Andrews</h1>
-<h3 align="center">A passionate CS Student from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=269CCC&width=435&lines=I+am+Susan+Andrews;I+am++python+developer..;I+am+front+end+developer.." alt="Typing SVG" /></a><hr>
 <div  id="header" align="center">
   <img  src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
 </div>
