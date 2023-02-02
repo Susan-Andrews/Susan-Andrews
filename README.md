@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **susanandrews2024@cs.ajce.in** , [Susan Andrews](https://www.linkedin.com/in/susanandrews?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZoes3PEWR5iEL1XLC2aftw%3D%3D)
 
-- ⚡ Fun fact **I think I am BeautifulSoup**
+- ⚡ Fun fact **I think I am Beautiful Soup**
 
  <hr size="30px" width="650px">
 <h3 align="left">Languages and Tools:</h3>
