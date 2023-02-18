@@ -3,17 +3,13 @@
      style="display: inline-block; margin: 0 auto;  width: 950px; height: 200px">
 
 ```bash
-Yea, Im Beautiful Soup
+Yea, Im Beautiful Soup !
 ```
 ```bash
 Im a CS Scholar  
 Currently im developing a website with my team  for the club torrero hosted by AJCE !  
 
 ```
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan-andrews&show_icons=true&locale=en&layout=compact" alt="susan-andrews" /></p>
-
 <br>
 
 
