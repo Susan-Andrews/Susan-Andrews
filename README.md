@@ -7,7 +7,6 @@ Yea, Im Beautiful Soup !
 ```
 ```bash
 Im a CS Scholar  
-<!--Currently im developing a website with my team  for the club torrero hosted by AJCE ! -->  
 
 ```
 <br>
