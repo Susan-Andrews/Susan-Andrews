@@ -17,7 +17,8 @@ Im a CS Scholar
 
 >**Find me**  
 >mail:susanandrews2024@cs.ajce.in  
->linkedIn: [Susan Andrews](https://www.linkedin.com/in/susanandrews?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZoes3PEWR5iEL1XLC2aftw%3D%3D)  <br>
+>linkedIn: [Susan Andrews](https://www.linkedin.com/in/susanandrews?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZoes3PEWR5iEL1XLC2aftw%3D%3D)   
+>Replit:[Susan Andrews](https://replit.com/@susanandrews123)  <br>  
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-andrews&" alt="susan-andrews" /></p>
  -->
