@@ -11,9 +11,9 @@ Im a CS Scholar
 ```
 <br>
 
-
+<!-- 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Andrews)](https://github.com/anuraghazra/github-readme-stats)  
-<br>
+<br> -->
 
 >**Find me**  
 >mail:susanandrews2024@cs.ajce.in  
