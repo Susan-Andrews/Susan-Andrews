@@ -1,4 +1,4 @@
-<img src="header.png" 
+<img src="bannernew.png" 
      alt="banner"  
      style="display: inline-block; margin: 0 auto;  width: 950px; height: 200px">
 
