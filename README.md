@@ -14,10 +14,18 @@
   <a href="https://www.hackerrank.com/susanandrews2001" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>   
 </div>
 <br>  
+<!-- <div align='center'> <span  style="font-family:Papyrus; font-size:8em;">
+      HACKTOBER-23
+</span>  
+</div>
+ -->
 
 ```bash
 Yea, Im Beautiful Soup!  
 ```
 <br>
+
+
+[![An image of @susanandrews's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/susanandrews)](https://holopin.io/@susanandrews)
 
 
