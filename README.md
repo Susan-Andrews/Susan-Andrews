@@ -25,7 +25,10 @@ Yea, Im Beautiful Soup!
 ```
 <br>
 
-
+<!--
 [![An image of @susanandrews's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/susanandrews)](https://holopin.io/@susanandrews)
+--!>
 
-
+<!--
+𝑷𝒆𝙧𝒔𝒐𝒏𝒂𝒍𝒊𝙨𝒆 𝒚𝒐𝙪𝒓 𝒊𝒅𝒆𝙣𝙩𝙞𝙩𝒚
+--!>
