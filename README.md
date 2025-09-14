@@ -29,7 +29,7 @@ I'll be back, watch out!
 ```
 <br>
 
-<img src="skills2.png" 
+<img src="skills3.png" 
      alt="banner"  
      style="display: inline-block; margin: 0 auto;  width: 950px; height: 200px">
 
